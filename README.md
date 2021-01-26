@@ -8,7 +8,7 @@ O DS Delivery é um sistema de delivery de uma pizzaria no qual foi desenvolvido
 
 - Java
 - Spring Boot
-- Maven
+- TypeScript
 - React JS
 
 ## Layout
